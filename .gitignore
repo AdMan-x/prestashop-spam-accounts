@@ -1,0 +1,9 @@
+# Configuration d'une boutique utilisee pour tester le script localement.
+# Ces fichiers contiennent les identifiants de la base de donnees :
+# ils ne doivent jamais etre versionnes.
+/app/
+/config/
+
+# Fichiers de travail locaux
+*.local.php
+notes.txt
